@@ -1,0 +1,804 @@
+{
+  "metadata": {
+    "totalKeywords": 85,
+    "lastUpdated": "2026-04-13",
+    "source": "Mastertech SEO/GEO Research Report"
+  },
+  "categories": {
+    "service": {
+      "description": "Direct transactional searches from companies actively looking for staffing help",
+      "keywords": [
+        {
+          "keyword": "skilled trades staffing agency",
+          "competition": "high",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services",
+          "targetSlug": null,
+          "notes": "Broad head term — target with services hub page"
+        },
+        {
+          "keyword": "diesel mechanic staffing agency",
+          "competition": "medium",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "diesel-mechanics",
+          "notes": "Highest relevance to core business. DieselMechanicStaffing.com is most vulnerable competitor"
+        },
+        {
+          "keyword": "diesel mechanic recruiting firm",
+          "competition": "medium",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "diesel-mechanics",
+          "notes": "Variant of diesel mechanic staffing"
+        },
+        {
+          "keyword": "CNC machinist staffing agency",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "cnc-machining",
+          "notes": "Low competition — quick win opportunity"
+        },
+        {
+          "keyword": "blue collar recruiting agency",
+          "competition": "medium",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services",
+          "targetSlug": null,
+          "notes": "Broad term — services hub or homepage"
+        },
+        {
+          "keyword": "welder staffing agency",
+          "competition": "medium",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "welding",
+          "notes": null
+        },
+        {
+          "keyword": "HVAC technician recruiter",
+          "competition": "medium",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "hvac",
+          "notes": null
+        },
+        {
+          "keyword": "electrician staffing agency",
+          "competition": "medium",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "electrical",
+          "notes": null
+        },
+        {
+          "keyword": "heavy equipment mechanic recruiter",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "heavy-equipment",
+          "notes": "Low competition — good opportunity"
+        },
+        {
+          "keyword": "millwright staffing agency",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "millwright",
+          "notes": "Very low competition — virtually no niche competitors"
+        },
+        {
+          "keyword": "aviation maintenance staffing",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "aviation-maintenance",
+          "notes": "BLUE OCEAN — virtually uncontested keyword"
+        },
+        {
+          "keyword": "skilled trades headhunter",
+          "competition": "medium",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/services",
+          "targetSlug": null,
+          "notes": null
+        },
+        {
+          "keyword": "direct hire skilled trades",
+          "competition": "medium",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/how-it-works",
+          "targetSlug": null,
+          "notes": "How-it-works or employer landing page"
+        },
+        {
+          "keyword": "maintenance technician staffing",
+          "competition": "medium",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/services",
+          "targetSlug": null,
+          "notes": "Broad — could apply to any trade"
+        },
+        {
+          "keyword": "marine mechanic staffing",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "marine-mechanics",
+          "notes": "Very low competition — nearly nonexistent content from competitors"
+        },
+        {
+          "keyword": "railroad maintenance technician staffing",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "rail-maintenance",
+          "notes": "Very low competition — nearly nonexistent content from competitors"
+        },
+        {
+          "keyword": "temp to hire skilled trades",
+          "competition": "medium",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/how-it-works",
+          "targetSlug": null,
+          "notes": null
+        },
+        {
+          "keyword": "contract skilled trades staffing",
+          "competition": "medium",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/how-it-works",
+          "targetSlug": null,
+          "notes": null
+        },
+        {
+          "keyword": "industrial mechanic recruiter",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/services",
+          "targetSlug": null,
+          "notes": null
+        },
+        {
+          "keyword": "skilled trades recruitment agency",
+          "competition": "high",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/",
+          "targetSlug": null,
+          "notes": "Variant of main head term — homepage"
+        }
+      ]
+    },
+    "location": {
+      "description": "Companies searching for staffing help in specific metros",
+      "keywords": [
+        {
+          "keyword": "skilled trades recruiter Houston TX",
+          "competition": "medium",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "texas/houston",
+          "notes": "Tier 1 city — #1 construction job gains"
+        },
+        {
+          "keyword": "diesel mechanic staffing Dallas TX",
+          "competition": "medium",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "texas/dallas-fort-worth",
+          "notes": "Tier 1 city — top inland logistics hub"
+        },
+        {
+          "keyword": "skilled trades staffing agency Phoenix AZ",
+          "competition": "medium",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "arizona/phoenix",
+          "notes": "Tier 1 city — #1 construction workforce density"
+        },
+        {
+          "keyword": "industrial staffing agency Atlanta GA",
+          "competition": "medium",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "georgia/atlanta",
+          "notes": "Tier 1 city — Southeast logistics capital"
+        },
+        {
+          "keyword": "skilled trades staffing agency Chicago IL",
+          "competition": "high",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "illinois/chicago",
+          "notes": "Tier 1 city — rail capital of North America"
+        },
+        {
+          "keyword": "skilled trades recruiter Charlotte NC",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "north-carolina/charlotte",
+          "notes": "Tier 1 city — low competition"
+        },
+        {
+          "keyword": "HVAC technician staffing Denver CO",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "colorado/denver",
+          "notes": "Tier 2 city — trade-specific + location"
+        },
+        {
+          "keyword": "diesel mechanic recruiter Nashville TN",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "tennessee/nashville",
+          "notes": "Tier 2 city — low competition"
+        },
+        {
+          "keyword": "skilled trades recruiter Indianapolis IN",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "indiana/indianapolis",
+          "notes": "Tier 1 city — Crossroads of America"
+        },
+        {
+          "keyword": "skilled trades staffing Columbus OH",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "ohio/columbus",
+          "notes": "Tier 1 city — Intel fab buildout"
+        },
+        {
+          "keyword": "skilled trades staffing San Antonio TX",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "texas/san-antonio",
+          "notes": "Tier 1 city — military veteran pipeline"
+        },
+        {
+          "keyword": "skilled trades recruiter near me",
+          "competition": "high",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/locations",
+          "targetSlug": null,
+          "notes": "High competition — capture via GBP and location hub page"
+        },
+        {
+          "keyword": "diesel mechanic staffing Memphis TN",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "tennessee/memphis",
+          "notes": "Tier 2 city — FedEx SuperHub"
+        },
+        {
+          "keyword": "skilled trades staffing Tampa FL",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "florida/tampa",
+          "notes": "Tier 2 city"
+        },
+        {
+          "keyword": "oil gas skilled trades staffing Midland TX",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/locations/[state]/[city]",
+          "targetSlug": "texas/midland-odessa",
+          "notes": "Tier 2 city — Permian Basin"
+        }
+      ]
+    },
+    "problem": {
+      "description": "Frustrated HR managers and fleet operators with active pain — highest conversion potential",
+      "keywords": [
+        {
+          "keyword": "can't find diesel mechanics to hire",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "informational-commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "how-to-hire-diesel-mechanic",
+          "notes": "Pain-point keyword — maps directly to hiring guide"
+        },
+        {
+          "keyword": "cost of unfilled technician position",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "informational-commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "cost-of-unfilled-position",
+          "notes": "Maps directly to Vacancy Cost Estimator tool"
+        },
+        {
+          "keyword": "skilled labor shortage solutions",
+          "competition": "medium",
+          "priority": "high",
+          "intent": "informational",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "skilled-trades-salary-guide-2026",
+          "notes": null
+        },
+        {
+          "keyword": "high turnover skilled trades",
+          "competition": "low",
+          "priority": "high",
+          "intent": "informational",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "retention-strategies-skilled-trades",
+          "notes": "Retention content cluster"
+        },
+        {
+          "keyword": "hard to fill skilled trades positions",
+          "competition": "low",
+          "priority": "high",
+          "intent": "informational-commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "reduce-time-to-fill-trades",
+          "notes": null
+        },
+        {
+          "keyword": "why can't I find qualified mechanics",
+          "competition": "low",
+          "priority": "high",
+          "intent": "informational-commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "job-postings-not-getting-applications",
+          "notes": null
+        },
+        {
+          "keyword": "reduce time to hire skilled trades",
+          "competition": "low",
+          "priority": "high",
+          "intent": "informational-commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "reduce-time-to-fill-trades",
+          "notes": null
+        },
+        {
+          "keyword": "skilled trades worker shortage 2026",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "skilled-trades-salary-guide-2026",
+          "notes": "Data-driven content"
+        },
+        {
+          "keyword": "how to retain diesel mechanics",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "retention-strategies-skilled-trades",
+          "notes": null
+        },
+        {
+          "keyword": "trades worker recruitment challenges",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "job-postings-not-getting-applications",
+          "notes": null
+        },
+        {
+          "keyword": "manufacturing labor shortage",
+          "competition": "medium",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "skilled-trades-salary-guide-2026",
+          "notes": null
+        },
+        {
+          "keyword": "construction worker shortage",
+          "competition": "medium",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "construction",
+          "notes": "Could target with industry page"
+        },
+        {
+          "keyword": "diesel technician shortage",
+          "competition": "low",
+          "priority": "high",
+          "intent": "informational-commercial",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "diesel-mechanics",
+          "notes": "Pain point that maps to service page"
+        },
+        {
+          "keyword": "aging trades workforce",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "skilled-trades-salary-guide-2026",
+          "notes": null
+        },
+        {
+          "keyword": "finding skilled trades workers",
+          "competition": "medium",
+          "priority": "medium",
+          "intent": "informational-commercial",
+          "targetPage": "/services",
+          "targetSlug": null,
+          "notes": null
+        }
+      ]
+    },
+    "emergency": {
+      "description": "Urgent hiring needs — highest willingness to pay, near-zero competition",
+      "keywords": [
+        {
+          "keyword": "urgent diesel mechanic hire",
+          "competition": "near-zero",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/employers",
+          "targetSlug": null,
+          "notes": "Dedicated emergency staffing section on employer page"
+        },
+        {
+          "keyword": "emergency skilled trades staffing",
+          "competition": "near-zero",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/employers",
+          "targetSlug": null,
+          "notes": null
+        },
+        {
+          "keyword": "hire skilled tradespeople fast",
+          "competition": "near-zero",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/employers",
+          "targetSlug": null,
+          "notes": null
+        },
+        {
+          "keyword": "same week skilled trades placement",
+          "competition": "near-zero",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/employers",
+          "targetSlug": null,
+          "notes": null
+        },
+        {
+          "keyword": "rapid deployment skilled labor",
+          "competition": "near-zero",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/employers",
+          "targetSlug": null,
+          "notes": null
+        },
+        {
+          "keyword": "immediate need diesel technician",
+          "competition": "near-zero",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "diesel-mechanics",
+          "notes": null
+        },
+        {
+          "keyword": "emergency maintenance staffing",
+          "competition": "near-zero",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/employers",
+          "targetSlug": null,
+          "notes": null
+        },
+        {
+          "keyword": "rush skilled trades placement",
+          "competition": "near-zero",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/employers",
+          "targetSlug": null,
+          "notes": null
+        }
+      ]
+    },
+    "industry": {
+      "description": "Companies within specific verticals searching for staffing solutions",
+      "keywords": [
+        {
+          "keyword": "trucking company mechanic staffing",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "transportation",
+          "notes": "Low competition, high relevance"
+        },
+        {
+          "keyword": "fleet maintenance staffing solutions",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "transportation",
+          "notes": null
+        },
+        {
+          "keyword": "aviation maintenance recruiter",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "aviation-maintenance",
+          "notes": "BLUE OCEAN — virtually uncontested"
+        },
+        {
+          "keyword": "marine mechanic staffing",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "marine-mechanics",
+          "notes": "Very low competition"
+        },
+        {
+          "keyword": "railroad maintenance technician staffing",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "rail-maintenance",
+          "notes": "Very low competition"
+        },
+        {
+          "keyword": "oil and gas skilled trades staffing",
+          "competition": "medium",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "energy",
+          "notes": null
+        },
+        {
+          "keyword": "manufacturing plant staffing agency",
+          "competition": "medium",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "manufacturing",
+          "notes": null
+        },
+        {
+          "keyword": "data center skilled trades staffing",
+          "competition": "low",
+          "priority": "high",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "data-centers",
+          "notes": "Emerging demand — low competition"
+        },
+        {
+          "keyword": "construction staffing agency",
+          "competition": "high",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "construction",
+          "notes": "High competition from generalist agencies"
+        },
+        {
+          "keyword": "power plant maintenance staffing",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "energy",
+          "notes": null
+        },
+        {
+          "keyword": "refinery turnaround staffing",
+          "competition": "medium",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "energy",
+          "notes": null
+        },
+        {
+          "keyword": "shipyard staffing agency",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "marine",
+          "notes": null
+        },
+        {
+          "keyword": "food processing plant staffing",
+          "competition": "medium",
+          "priority": "low",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "manufacturing",
+          "notes": null
+        },
+        {
+          "keyword": "mining equipment maintenance staffing",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "mining",
+          "notes": null
+        },
+        {
+          "keyword": "defense contractor skilled trades",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "transactional",
+          "targetPage": "/industries/[slug]",
+          "targetSlug": "defense",
+          "notes": null
+        }
+      ]
+    },
+    "longTail": {
+      "description": "Commercial investigation queries from employers actively evaluating options",
+      "keywords": [
+        {
+          "keyword": "how to hire diesel mechanics fast",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "informational-commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "how-to-hire-diesel-mechanic",
+          "notes": "Primary blog post target"
+        },
+        {
+          "keyword": "cost of hiring diesel mechanic through staffing agency",
+          "competition": "low",
+          "priority": "high",
+          "intent": "commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "staffing-agency-vs-direct-hire",
+          "notes": null
+        },
+        {
+          "keyword": "staffing agency vs direct hire skilled trades",
+          "competition": "low",
+          "priority": "highest",
+          "intent": "commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "staffing-agency-vs-direct-hire",
+          "notes": "Comparison content — highly cited by AI"
+        },
+        {
+          "keyword": "how much does a skilled trades recruiter cost",
+          "competition": "low",
+          "priority": "high",
+          "intent": "commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "staffing-agency-vs-direct-hire",
+          "notes": null
+        },
+        {
+          "keyword": "benefits of using a skilled trades staffing agency",
+          "competition": "low",
+          "priority": "high",
+          "intent": "commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "staffing-agency-vs-direct-hire",
+          "notes": null
+        },
+        {
+          "keyword": "when to use a staffing agency for mechanics",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "informational-commercial",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "staffing-agency-vs-direct-hire",
+          "notes": null
+        },
+        {
+          "keyword": "best recruiting agency for skilled trades 2026",
+          "competition": "low",
+          "priority": "high",
+          "intent": "commercial",
+          "targetPage": "/",
+          "targetSlug": null,
+          "notes": "Homepage or services hub — branded opportunity"
+        },
+        {
+          "keyword": "how to vet a diesel mechanic candidate",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "how-to-hire-diesel-mechanic",
+          "notes": null
+        },
+        {
+          "keyword": "diesel mechanic interview questions for employers",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/resources",
+          "targetSlug": null,
+          "notes": "Resource/downloadable content opportunity"
+        },
+        {
+          "keyword": "what certifications should a diesel mechanic have",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/services/[slug]",
+          "targetSlug": "diesel-mechanics",
+          "notes": "FAQ content on service page"
+        },
+        {
+          "keyword": "average diesel mechanic salary by state",
+          "competition": "medium",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "skilled-trades-salary-guide-2026",
+          "notes": "Salary guide content"
+        },
+        {
+          "keyword": "skilled trades talent pipeline strategies",
+          "competition": "low",
+          "priority": "medium",
+          "intent": "informational",
+          "targetPage": "/blog/[slug]",
+          "targetSlug": "building-talent-pipeline",
+          "notes": null
+        }
+      ]
+    }
+  }
+}

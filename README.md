@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Project Status
 
-## Getting Started
+## Current Sprint
+Week 1, Days 3-4: Track A Webflow quick wins + Track B foundation
 
-First, run the development server:
+## Last Completed
+- [2026-04-13] Environment setup: Node.js, Git, VS Code + Claude Code, GitHub, Vercel
+- [2026-04-13] Next.js 14 project initialized with TypeScript + Tailwind CSS
+- [2026-04-13] CLAUDE.md created with full project standards
+- [2026-04-13] Data files generated: services.json (10 verticals), locations.json (29 metros), keywords.json (85 keywords)
+- [2026-04-13] Directory structure created: /components, /content/blog, /content/services, /content/locations, /lib/seo, /public/images
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Next Up
+- [ ] Track A: Generate Organization + EmploymentAgency schema JSON-LD for Webflow
+- [ ] Track A: Generate optimized meta titles/descriptions for all 15-16 Webflow pages
+- [ ] Track A: Generate FAQ content + FAQPage schema for service pages → Webflow
+- [ ] Track A: Create llms.txt → upload to Webflow
+- [ ] Track A: Set up Google Search Console + Google Business Profile
+- [ ] Track B: Build /lib/seo/schema.ts (reusable schema generators)
+- [ ] Track B: Build /lib/seo/metadata.ts (generateMetadata helpers)
+- [ ] Track B: Build base layout (header, footer, nav) in /app/layout.tsx
+- [ ] Track B: Build homepage /app/page.tsx
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Decisions Made
+- [2026-04-13] Dual-track: Webflow stays production, Next.js is learning + future migration
+- [2026-04-13] Stack: Next.js 14 + TypeScript + Tailwind + Vercel + GitHub
+- [2026-04-13] No SaaS build until formula proven on 2-3 clients
+- [2026-04-13] Content quality over quantity — no thin auto-generated pages
+- [2026-04-13] System fonts for now, Google Fonts added later for production styling
+- [2026-04-13] 29 locations created (NY-NJ metro deferred to Tier 3 buildout)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Known Issues / Blockers
+- (none yet)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Architecture Notes
+- services.json contains full content data per vertical: slug, meta tags, keywords, summary, FAQs (5 each), certifications, salary ranges, related services/blogs/locations
+- locations.json organized by tier (1/2/3) with genuinely unique local context per city — not template content
+- keywords.json maps all 85 keywords to target pages with competition level and priority
+- Layout uses system fonts — swap to Inter/Geist when deploying to production (Google Fonts fetch fails in sandbox environments)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Track A (Webflow) Status
+- Last synced: NOT STARTED
+- Pending: schema markup, meta titles/descriptions, expanded service page content, FAQ sections, llms.txt, Google Business Profile setup

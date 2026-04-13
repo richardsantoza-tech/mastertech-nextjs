@@ -1,0 +1,785 @@
+[
+  {
+    "slug": "diesel-mechanics",
+    "name": "Heavy Duty Diesel Mechanics",
+    "shortName": "Diesel Mechanics",
+    "icon": "wrench",
+    "metaTitle": "Diesel Mechanic Staffing Agency | MasterTech",
+    "metaDescription": "Find qualified diesel mechanics fast. MasterTech connects you with certified heavy duty diesel technicians for fleet maintenance, trucking, and construction. Get started today.",
+    "primaryKeyword": "diesel mechanic staffing agency",
+    "secondaryKeywords": [
+      "diesel mechanic recruiting firm",
+      "hire diesel mechanics",
+      "heavy duty diesel technician staffing",
+      "diesel mechanic recruiter",
+      "fleet mechanic staffing"
+    ],
+    "summary": "MasterTech is a specialized diesel mechanic staffing agency that connects employers with certified heavy duty diesel technicians. We recruit experienced mechanics for fleet maintenance, trucking companies, construction equipment dealers, and manufacturing facilities across the United States, reducing your time-to-fill by up to 50%.",
+    "heroHeadline": "Diesel Mechanic Staffing & Recruiting",
+    "heroSubheadline": "Find certified heavy duty diesel technicians for your fleet, shop, or facility — fast.",
+    "industryContext": "The heavy duty diesel industry faces a critical technician shortage. The Bureau of Labor Statistics projects 28,000 diesel technician job openings annually through 2032, with demand outpacing supply by 3:1 in major logistics corridors. Average time-to-fill for diesel mechanic positions exceeds 45 days nationally.",
+    "certifications": [
+      "ASE T-Series (T1-T8) Heavy Truck Certification",
+      "ASE Medium-Heavy Truck Certification",
+      "EPA Section 608/609 Certification",
+      "CDL Class A or B (preferred for road service)",
+      "OEM-specific certifications (Caterpillar, Cummins, Detroit Diesel, PACCAR)",
+      "Hydraulic certification",
+      "Welding certification (supplemental)"
+    ],
+    "typicalRoles": [
+      "Heavy Duty Diesel Mechanic",
+      "Fleet Maintenance Technician",
+      "Mobile Diesel Mechanic",
+      "Diesel Engine Rebuilder",
+      "Preventive Maintenance Technician",
+      "Heavy Truck Technician",
+      "Shop Foreman / Lead Technician"
+    ],
+    "salaryRange": {
+      "low": 45000,
+      "median": 58000,
+      "high": 78000,
+      "source": "Bureau of Labor Statistics, 2024"
+    },
+    "industries": [
+      "Trucking & Transportation",
+      "Construction Equipment",
+      "Fleet Maintenance",
+      "Mining & Quarry",
+      "Agriculture",
+      "Oil & Gas"
+    ],
+    "faqs": [
+      {
+        "question": "How much does it cost to hire a diesel mechanic through a staffing agency?",
+        "answer": "Staffing agency fees for diesel mechanics typically range from 20-30% of the candidate's first-year salary for direct hire placements, or a bill rate markup of 30-50% for contract/temp-to-hire positions. MasterTech's rates are competitive within this range and vary based on position level, location, and urgency. The cost is often offset by reduced time-to-fill and lower risk of a bad hire."
+      },
+      {
+        "question": "How long does it take to fill a diesel mechanic position?",
+        "answer": "The national average time-to-fill for diesel mechanic positions is 45-60 days through traditional recruiting. MasterTech typically reduces this to 14-21 days by maintaining a pre-vetted network of qualified diesel technicians. Emergency placements can be completed within 5-7 business days depending on location and certification requirements."
+      },
+      {
+        "question": "What certifications should a diesel mechanic have?",
+        "answer": "At minimum, diesel mechanics should hold ASE T-Series certifications relevant to their specialty (T1-T8 covers different truck systems). EPA Section 608 certification is required for refrigerant handling. Many employers also require OEM-specific certifications from manufacturers like Caterpillar, Cummins, or Detroit Diesel. CDL Class A or B is increasingly preferred, especially for mobile service roles."
+      },
+      {
+        "question": "What's the difference between temp-to-hire and direct hire for diesel mechanics?",
+        "answer": "Temp-to-hire lets you evaluate a diesel mechanic on the job for 90-180 days before making a permanent offer — ideal when you're unsure about fit or volume needs. Direct hire means MasterTech recruits and the candidate starts as your full-time employee immediately. Direct hire costs more upfront (typically 20-30% of annual salary) but avoids the markup on hourly billing during the temp period."
+      },
+      {
+        "question": "How do you vet diesel mechanic candidates?",
+        "answer": "MasterTech's vetting process includes ASE certification verification, hands-on technical assessments, employment history verification with previous shops and fleet operators, DOT compliance checks, drug screening, background checks, and reference calls with direct supervisors. We also assess soft skills like diagnostic troubleshooting approach and communication with service writers."
+      }
+    ],
+    "relatedServices": ["heavy-equipment", "welding", "aviation-maintenance"],
+    "relatedBlogSlugs": ["how-to-hire-diesel-mechanic", "cost-of-unfilled-position", "staffing-agency-vs-direct-hire"],
+    "relatedLocations": ["texas/houston", "texas/dallas-fort-worth", "tennessee/nashville"]
+  },
+  {
+    "slug": "aviation-maintenance",
+    "name": "Aviation Maintenance",
+    "shortName": "Aviation Maintenance",
+    "icon": "plane",
+    "metaTitle": "Aviation Maintenance Staffing | MasterTech",
+    "metaDescription": "Specialized aviation maintenance technician recruiting. MasterTech staffs A&P mechanics, avionics techs, and aircraft inspectors for MROs and airlines. Contact us.",
+    "primaryKeyword": "aviation maintenance staffing",
+    "secondaryKeywords": [
+      "aviation maintenance recruiter",
+      "A&P mechanic staffing agency",
+      "aircraft mechanic recruiter",
+      "aviation technician staffing",
+      "MRO staffing solutions"
+    ],
+    "summary": "MasterTech provides specialized aviation maintenance staffing for MROs, airlines, defense contractors, and aircraft manufacturers. We recruit FAA-certificated A&P mechanics, avionics technicians, aircraft inspectors, and composite repair specialists. Aviation mechanic recruiting is a virtually uncontested niche — and our deep industry focus is your competitive advantage.",
+    "heroHeadline": "Aviation Maintenance Technician Staffing",
+    "heroSubheadline": "FAA-certificated A&P mechanics, avionics techs, and inspectors — recruited for your operation.",
+    "industryContext": "The aviation maintenance industry faces a projected shortage of 12,000+ technicians over the next decade according to the Aviation Technician Education Council (ATEC). With an aging workforce (average AMT age is 51), retirements are accelerating faster than FAA Part 147 schools can produce graduates. MRO demand is growing 4% annually as global fleet size expands.",
+    "certifications": [
+      "FAA Airframe & Powerplant (A&P) Certificate",
+      "FAA Inspection Authorization (IA)",
+      "FCC General Radiotelephone Operator License (avionics)",
+      "NCATT Aircraft Electronics Technician (AET)",
+      "NDT certifications (Level I, II, III)",
+      "OEM type-specific training (Boeing, Airbus, Bombardier, Embraer)",
+      "Composite repair certifications"
+    ],
+    "typicalRoles": [
+      "A&P Mechanic",
+      "Avionics Technician",
+      "Aircraft Inspector (IA)",
+      "Line Maintenance Technician",
+      "Heavy Check Mechanic",
+      "Composite Repair Technician",
+      "Aircraft Structural Repair Technician",
+      "Engine Shop Technician"
+    ],
+    "salaryRange": {
+      "low": 50000,
+      "median": 67000,
+      "high": 98000,
+      "source": "Bureau of Labor Statistics, 2024"
+    },
+    "industries": [
+      "Commercial Airlines",
+      "MRO (Maintenance, Repair & Overhaul)",
+      "Defense & Military Contractors",
+      "Business/Private Aviation",
+      "Aircraft Manufacturing",
+      "Cargo/Freight Airlines"
+    ],
+    "faqs": [
+      {
+        "question": "How hard is it to find qualified A&P mechanics?",
+        "answer": "Extremely difficult. The aviation industry faces a projected shortage of 12,000+ technicians over the next decade. The average A&P mechanic is 51 years old, meaning retirements are outpacing new FAA Part 147 school graduates. MasterTech maintains relationships with A&P schools and veteran transition programs to access candidates before they hit the open market."
+      },
+      {
+        "question": "What certifications do aviation maintenance technicians need?",
+        "answer": "At minimum, an FAA Airframe & Powerplant (A&P) certificate is required for most maintenance roles. Inspectors need Inspection Authorization (IA). Avionics technicians should hold FCC licenses and NCATT AET certification. Many positions also require OEM type-specific training (Boeing 737, Airbus A320, etc.) and NDT certifications for inspection roles."
+      },
+      {
+        "question": "Can you staff for MRO heavy maintenance checks?",
+        "answer": "Yes. MasterTech regularly staffs C-checks, D-checks, and heavy maintenance visits for MRO facilities. We can scale teams up for scheduled heavy checks and scale down after completion, providing the flexibility MROs need to manage fluctuating workloads without carrying excess permanent headcount."
+      },
+      {
+        "question": "Do you recruit for defense and military aviation maintenance?",
+        "answer": "Yes. We recruit cleared and clearable technicians for defense contractors and military maintenance facilities. Many of our candidates are military veterans with extensive experience on military aircraft platforms who have transitioned to civilian A&P certification."
+      },
+      {
+        "question": "What's the typical time-to-fill for aviation maintenance positions?",
+        "answer": "Aviation maintenance positions typically take 30-60 days to fill through traditional recruiting due to certification requirements and security clearance needs. MasterTech's specialized network reduces this to 14-30 days for most A&P mechanic roles. Cleared positions or highly specialized roles (NDT Level III, specific OEM type ratings) may take longer."
+      }
+    ],
+    "relatedServices": ["electrical", "welding", "heavy-equipment"],
+    "relatedBlogSlugs": ["aviation-maintenance-hiring-guide", "how-to-hire-diesel-mechanic"],
+    "relatedLocations": ["georgia/atlanta", "texas/dallas-fort-worth", "arizona/phoenix"]
+  },
+  {
+    "slug": "cnc-machining",
+    "name": "CNC Machining",
+    "shortName": "CNC Machining",
+    "icon": "cog",
+    "metaTitle": "CNC Machinist Staffing Agency | MasterTech",
+    "metaDescription": "Hire skilled CNC machinists and programmers through MasterTech. We staff CNC operators, setup technicians, and programmers for precision manufacturing. Contact us.",
+    "primaryKeyword": "CNC machinist staffing agency",
+    "secondaryKeywords": [
+      "CNC machinist recruiter",
+      "hire CNC machinists",
+      "CNC operator staffing",
+      "CNC programmer recruiter",
+      "precision machining staffing"
+    ],
+    "summary": "MasterTech is a specialized CNC machinist staffing agency connecting manufacturers with skilled CNC operators, setup technicians, and programmers. We recruit for turning, milling, grinding, and multi-axis machining operations across aerospace, automotive, medical device, and defense manufacturing. CNC machinist recruiting has remarkably low competition — and high employer demand.",
+    "heroHeadline": "CNC Machinist Staffing & Recruiting",
+    "heroSubheadline": "Skilled CNC operators, programmers, and setup technicians for your precision manufacturing operation.",
+    "industryContext": "The manufacturing sector faces a projected 2.1 million unfilled jobs by 2030 according to Deloitte and the Manufacturing Institute. CNC machinists are among the hardest-to-fill manufacturing roles, with experienced multi-axis programmers commanding premium salaries. The skills gap is widening as veteran machinists retire and younger workers gravitate toward tech careers.",
+    "certifications": [
+      "NIMS (National Institute for Metalworking Skills) Certification",
+      "CNC Machining Level I, II, III",
+      "Mastercam, Siemens NX, or FANUC programming certification",
+      "GD&T (Geometric Dimensioning & Tolerancing)",
+      "Blueprint reading certification",
+      "AS9100 / ISO 9001 quality systems experience",
+      "CMM (Coordinate Measuring Machine) operation"
+    ],
+    "typicalRoles": [
+      "CNC Machine Operator",
+      "CNC Setup Technician",
+      "CNC Programmer",
+      "Multi-Axis CNC Machinist",
+      "Swiss-Type CNC Operator",
+      "CNC Mill Operator",
+      "CNC Lathe Operator",
+      "Tool & Die Maker"
+    ],
+    "salaryRange": {
+      "low": 40000,
+      "median": 52000,
+      "high": 72000,
+      "source": "Bureau of Labor Statistics, 2024"
+    },
+    "industries": [
+      "Aerospace Manufacturing",
+      "Automotive Manufacturing",
+      "Medical Device Manufacturing",
+      "Defense & Military",
+      "Oil & Gas Components",
+      "Tool & Die Shops"
+    ],
+    "faqs": [
+      {
+        "question": "What skills should a CNC machinist have?",
+        "answer": "A qualified CNC machinist should be proficient in blueprint reading, GD&T interpretation, machine setup and operation, basic programming (G-code/M-code), precision measurement with micrometers and calipers, and quality inspection. Advanced machinists should have experience with CAM software (Mastercam, Siemens NX), multi-axis programming, and tight-tolerance work (±0.0005\" or better)."
+      },
+      {
+        "question": "How do you assess CNC machinist skills?",
+        "answer": "MasterTech's CNC assessment process includes hands-on machine setup tests, blueprint reading evaluations, GD&T comprehension tests, programming challenges appropriate to the role level, and precision measurement exercises. We also verify NIMS certifications and assess experience with specific machine brands (Haas, Mazak, DMG Mori, Okuma) relevant to your shop."
+      },
+      {
+        "question": "Can you staff for aerospace-grade CNC machining?",
+        "answer": "Yes. We recruit machinists experienced with AS9100 quality systems, exotic materials (titanium, Inconel, aluminum alloys), tight tolerances required for flight-critical components, and the documentation/traceability requirements specific to aerospace manufacturing."
+      },
+      {
+        "question": "What's the difference between a CNC operator and CNC programmer?",
+        "answer": "A CNC operator runs machines using existing programs — loading material, monitoring cycles, performing quality checks, and making minor offset adjustments. A CNC programmer creates the machining programs from engineering drawings using CAM software, selecting tooling, speeds, feeds, and cut strategies. Programmers command 20-40% higher salaries and are significantly harder to find."
+      },
+      {
+        "question": "How long does it take to fill a CNC machinist position?",
+        "answer": "CNC machinist positions average 30-45 days to fill nationally. Experienced multi-axis programmers or Swiss-type operators can take 60+ days. MasterTech's manufacturing-focused network typically reduces time-to-fill to 14-21 days for operators and 21-30 days for programmers."
+      }
+    ],
+    "relatedServices": ["welding", "millwright", "electrical"],
+    "relatedBlogSlugs": ["cnc-machinist-hiring-guide", "staffing-agency-vs-direct-hire"],
+    "relatedLocations": ["ohio/columbus", "indiana/indianapolis", "illinois/chicago"]
+  },
+  {
+    "slug": "welding",
+    "name": "Welding",
+    "shortName": "Welding",
+    "icon": "flame",
+    "metaTitle": "Welder Staffing Agency | MasterTech",
+    "metaDescription": "Hire certified welders through MasterTech. We staff MIG, TIG, stick, and pipe welders for construction, manufacturing, and energy projects nationwide. Get started.",
+    "primaryKeyword": "welder staffing agency",
+    "secondaryKeywords": [
+      "welding staffing agency",
+      "hire certified welders",
+      "pipe welder recruiter",
+      "structural welder staffing",
+      "welding recruiter"
+    ],
+    "summary": "MasterTech staffs certified welders for construction, manufacturing, energy, and shipbuilding operations across the US. We recruit MIG, TIG, stick, flux-core, and pipe welders with verified certifications from AWS, ASME, and API. Our welder staffing services cover both permanent placement and project-based contract staffing.",
+    "heroHeadline": "Welder Staffing & Recruiting",
+    "heroSubheadline": "Certified MIG, TIG, stick, and pipe welders — recruited and verified for your operation.",
+    "industryContext": "The American Welding Society projects a shortage of 360,000 welders by 2027. Certified pipe welders and structural welders command premium rates, with experienced 6G pipe welders earning $35-55/hour in major markets. The infrastructure bill and reshoring of manufacturing are driving unprecedented demand.",
+    "certifications": [
+      "AWS D1.1 Structural Welding Certification",
+      "ASME Section IX Pressure Vessel Certification",
+      "API 1104 Pipeline Welding Certification",
+      "AWS Certified Welding Inspector (CWI)",
+      "6G Pipe Welding Certification",
+      "SMAW, GMAW, GTAW, FCAW process certifications",
+      "Brazing and soldering certifications"
+    ],
+    "typicalRoles": [
+      "MIG Welder",
+      "TIG Welder",
+      "Stick Welder",
+      "Pipe Welder (6G)",
+      "Structural Welder",
+      "Combo Welder",
+      "Welding Inspector (CWI)",
+      "Fabricator/Welder"
+    ],
+    "salaryRange": {
+      "low": 38000,
+      "median": 48000,
+      "high": 75000,
+      "source": "Bureau of Labor Statistics, 2024"
+    },
+    "industries": [
+      "Construction",
+      "Manufacturing",
+      "Oil & Gas / Pipeline",
+      "Shipbuilding & Marine",
+      "Power Generation",
+      "Structural Steel"
+    ],
+    "faqs": [
+      {
+        "question": "What welding certifications should I look for when hiring?",
+        "answer": "The certifications needed depend on your application. AWS D1.1 is standard for structural work. ASME Section IX is required for pressure vessels and boilers. API 1104 is mandatory for pipeline welding. For general fabrication, process-specific certifications (SMAW, GMAW, GTAW, FCAW) in relevant positions (1G through 6G) demonstrate competency."
+      },
+      {
+        "question": "How do you verify welder certifications?",
+        "answer": "MasterTech verifies all welding certifications directly with the issuing authority (AWS, ASME, or the testing facility). We also conduct weld tests on-site or at our partner testing facilities when required. Certifications are checked for current validity since most welding certs require renewal every 6 months to 3 years depending on the code."
+      },
+      {
+        "question": "Can you staff welders for shutdown and turnaround projects?",
+        "answer": "Yes. MasterTech regularly staffs large-scale shutdown, turnaround, and outage (STO) projects requiring 10-100+ welders on short notice. We maintain a deployment-ready roster of certified welders experienced with refinery, power plant, and chemical plant turnaround work."
+      },
+      {
+        "question": "What's the difference between a welder and a fabricator?",
+        "answer": "A welder joins metal components using welding processes. A fabricator reads blueprints, measures and cuts material, fits components together, and then welds them — they handle the full process from raw material to finished assembly. Fabricators typically command 10-20% higher wages due to the broader skill set."
+      },
+      {
+        "question": "How fast can you place welders?",
+        "answer": "For certified welders with common qualifications (MIG/TIG, structural), MasterTech can typically present qualified candidates within 5-10 business days. Specialty welders (6G pipe, exotic alloys, underwater) take 14-21 days. For large-scale project staffing (10+ welders), we recommend 2-4 weeks lead time."
+      }
+    ],
+    "relatedServices": ["diesel-mechanics", "heavy-equipment", "millwright"],
+    "relatedBlogSlugs": ["how-to-hire-certified-welders", "staffing-agency-vs-direct-hire"],
+    "relatedLocations": ["texas/houston", "louisiana/new-orleans", "ohio/columbus"]
+  },
+  {
+    "slug": "hvac",
+    "name": "HVAC",
+    "shortName": "HVAC",
+    "icon": "thermometer",
+    "metaTitle": "HVAC Technician Staffing Agency | MasterTech",
+    "metaDescription": "Find qualified HVAC technicians through MasterTech. We recruit certified HVAC installers, service techs, and controls specialists nationwide. Contact us today.",
+    "primaryKeyword": "HVAC technician recruiter",
+    "secondaryKeywords": [
+      "HVAC staffing agency",
+      "hire HVAC technicians",
+      "HVAC installer recruiter",
+      "commercial HVAC staffing",
+      "HVAC service technician staffing"
+    ],
+    "summary": "MasterTech recruits certified HVAC technicians for commercial, industrial, and residential service companies across the US. We staff HVAC installers, service technicians, controls specialists, and refrigeration mechanics with EPA certifications and manufacturer training. Our HVAC recruiting expertise helps you fill positions in a market where demand outpaces supply by 2:1.",
+    "heroHeadline": "HVAC Technician Staffing & Recruiting",
+    "heroSubheadline": "Certified HVAC installers, service technicians, and controls specialists — ready to work.",
+    "industryContext": "HVAC technician employment is projected to grow 6% through 2032, faster than the national average. The data center boom is creating massive demand for precision cooling technicians, while the commercial building sector continues to expand. Average age of HVAC technicians is 48, with retirement rates accelerating.",
+    "certifications": [
+      "EPA Section 608 Universal Certification",
+      "EPA Section 609 (motor vehicle AC)",
+      "NATE (North American Technician Excellence) Certification",
+      "R-410A Safety Certification",
+      "OSHA 10/30 Safety Certification",
+      "OEM certifications (Carrier, Trane, Lennox, Daikin)",
+      "Building Automation Systems (BAS) certification",
+      "State-specific HVAC licenses (varies)"
+    ],
+    "typicalRoles": [
+      "HVAC Service Technician",
+      "HVAC Installer",
+      "Commercial HVAC Technician",
+      "Refrigeration Mechanic",
+      "Controls Technician / BAS Specialist",
+      "HVAC Project Manager",
+      "Chiller Technician",
+      "Data Center Cooling Technician"
+    ],
+    "salaryRange": {
+      "low": 40000,
+      "median": 54000,
+      "high": 80000,
+      "source": "Bureau of Labor Statistics, 2024"
+    },
+    "industries": [
+      "Commercial HVAC Service",
+      "Data Centers",
+      "Healthcare Facilities",
+      "Manufacturing Plants",
+      "Property Management",
+      "New Construction"
+    ],
+    "faqs": [
+      {
+        "question": "What certifications do HVAC technicians need?",
+        "answer": "At minimum, EPA Section 608 Universal Certification is required for handling refrigerants. NATE certification demonstrates competency recognized industry-wide. Many states also require specific HVAC licenses — requirements vary by state and municipality. OEM certifications from manufacturers like Carrier, Trane, or Lennox are increasingly valued."
+      },
+      {
+        "question": "Can you staff HVAC technicians for data centers?",
+        "answer": "Yes. MasterTech recruits precision cooling technicians experienced with data center HVAC systems including CRAC/CRAH units, chilled water systems, hot/cold aisle containment, and building management systems. Data center cooling is one of the fastest-growing segments in HVAC staffing."
+      },
+      {
+        "question": "How long does it take to fill an HVAC technician position?",
+        "answer": "HVAC technician positions average 30-45 days to fill through traditional recruiting. MasterTech typically reduces this to 10-21 days for installation and service roles. Specialized positions (controls/BAS technicians, chiller specialists) may take 21-30 days."
+      },
+      {
+        "question": "Do you staff for both residential and commercial HVAC?",
+        "answer": "MasterTech primarily focuses on commercial and industrial HVAC staffing, where the positions are harder to fill and the skill requirements are more specialized. We can assist with high-volume residential staffing for large HVAC companies, but our core strength is sourcing technicians experienced with commercial rooftop units, chillers, VRF systems, and building automation."
+      },
+      {
+        "question": "What's driving HVAC technician demand right now?",
+        "answer": "Three factors: the data center construction boom requiring precision cooling specialists, the commercial building sector's post-pandemic renovation and new construction cycle, and an aging workforce where the average HVAC tech is 48 years old. The refrigerant transition from R-410A to lower-GWP alternatives is also creating demand for technicians certified on new systems."
+      }
+    ],
+    "relatedServices": ["electrical", "millwright", "heavy-equipment"],
+    "relatedBlogSlugs": ["hvac-technician-hiring-guide", "cost-of-unfilled-position"],
+    "relatedLocations": ["arizona/phoenix", "texas/dallas-fort-worth", "colorado/denver"]
+  },
+  {
+    "slug": "electrical",
+    "name": "Electrical",
+    "shortName": "Electrical",
+    "icon": "zap",
+    "metaTitle": "Electrician Staffing Agency | MasterTech",
+    "metaDescription": "Hire licensed electricians through MasterTech. We staff journeyman and master electricians for industrial, commercial, and construction projects. Get started.",
+    "primaryKeyword": "electrician staffing agency",
+    "secondaryKeywords": [
+      "electrician recruiter",
+      "hire licensed electricians",
+      "industrial electrician staffing",
+      "commercial electrician recruiter",
+      "journeyman electrician staffing"
+    ],
+    "summary": "MasterTech provides electrician staffing for industrial, commercial, and construction operations across the US. We recruit licensed journeyman and master electricians, industrial controls technicians, PLC programmers, and high-voltage specialists. Our electrical recruiting services cover permanent placement and project-based contract staffing for facilities, plants, and construction sites.",
+    "heroHeadline": "Electrician Staffing & Recruiting",
+    "heroSubheadline": "Licensed journeyman and master electricians — recruited for industrial, commercial, and construction work.",
+    "industryContext": "Electrician employment is projected to grow 11% through 2032, much faster than average. The infrastructure bill, EV charging buildout, data center construction, and renewable energy installations are all driving demand. Licensed journeyman electricians are among the most sought-after tradespeople in the US.",
+    "certifications": [
+      "State Journeyman Electrician License",
+      "State Master Electrician License",
+      "OSHA 10/30 Safety Certification",
+      "NFPA 70E Arc Flash Safety",
+      "PLC Programming (Allen-Bradley, Siemens)",
+      "VFD (Variable Frequency Drive) certification",
+      "Medium/High Voltage certification",
+      "Instrumentation certification"
+    ],
+    "typicalRoles": [
+      "Journeyman Electrician",
+      "Master Electrician",
+      "Industrial Electrician",
+      "Controls Technician / PLC Programmer",
+      "Instrumentation Technician",
+      "High Voltage Electrician",
+      "Maintenance Electrician",
+      "Electrical Foreman"
+    ],
+    "salaryRange": {
+      "low": 44000,
+      "median": 61000,
+      "high": 100000,
+      "source": "Bureau of Labor Statistics, 2024"
+    },
+    "industries": [
+      "Industrial Manufacturing",
+      "Commercial Construction",
+      "Data Centers",
+      "Power Generation & Utilities",
+      "Oil & Gas",
+      "Renewable Energy"
+    ],
+    "faqs": [
+      {
+        "question": "What licenses do electricians need?",
+        "answer": "Electrician licensing varies by state. Most states require a journeyman license (typically 4 years apprenticeship + exam) for independent work and a master license for pulling permits and supervising. Some states have reciprocity agreements. MasterTech verifies all state licenses and ensures candidates meet your jurisdiction's requirements."
+      },
+      {
+        "question": "Can you staff industrial electricians with PLC experience?",
+        "answer": "Yes. MasterTech specifically recruits industrial electricians experienced with PLC programming (Allen-Bradley, Siemens, Mitsubishi), VFD troubleshooting, instrumentation, motor controls, and industrial automation systems. These combination electrician/controls technicians are among the highest-paid and hardest-to-find trades professionals."
+      },
+      {
+        "question": "Do you staff for data center electrical work?",
+        "answer": "Yes. We recruit electricians experienced with data center power distribution, UPS systems, generator paralleling, automatic transfer switches, and the redundancy requirements (N+1, 2N) specific to mission-critical facilities."
+      },
+      {
+        "question": "How fast can you place electricians?",
+        "answer": "For licensed journeyman electricians in major metros, MasterTech typically presents qualified candidates within 7-14 business days. Master electricians and specialized roles (high voltage, instrumentation) take 14-28 days. Emergency/urgent placements may be available in 3-5 days depending on location."
+      },
+      {
+        "question": "What's the difference between a commercial and industrial electrician?",
+        "answer": "Commercial electricians work primarily on building wiring systems — lighting, receptacles, panels, and low-voltage systems in offices, retail, and institutional buildings. Industrial electricians work with higher voltages, motor controls, PLCs, instrumentation, and production equipment in manufacturing plants, refineries, and heavy industrial facilities. Industrial electricians typically earn 15-25% more due to the specialized skill set."
+      }
+    ],
+    "relatedServices": ["hvac", "millwright", "cnc-machining"],
+    "relatedBlogSlugs": ["electrician-hiring-checklist", "cost-of-unfilled-position"],
+    "relatedLocations": ["illinois/chicago", "georgia/atlanta", "texas/houston"]
+  },
+  {
+    "slug": "marine-mechanics",
+    "name": "Marine Mechanics",
+    "shortName": "Marine Mechanics",
+    "icon": "anchor",
+    "metaTitle": "Marine Mechanic Staffing Agency | MasterTech",
+    "metaDescription": "Hire experienced marine mechanics and shipyard technicians through MasterTech. We staff marine diesel mechanics, outboard techs, and shipfitters. Get started.",
+    "primaryKeyword": "marine mechanic staffing",
+    "secondaryKeywords": [
+      "marine mechanic recruiter",
+      "hire marine mechanics",
+      "shipyard mechanic staffing",
+      "marine diesel mechanic recruiter",
+      "marine technician staffing"
+    ],
+    "summary": "MasterTech provides marine mechanic staffing for shipyards, boat manufacturers, marinas, and commercial vessel operators. We recruit marine diesel mechanics, outboard/inboard engine technicians, shipfitters, and marine electricians. Marine mechanic recruiting content is nearly nonexistent from staffing firms — our specialized focus gives employers a decisive advantage.",
+    "heroHeadline": "Marine Mechanic Staffing & Recruiting",
+    "heroSubheadline": "Marine diesel mechanics, shipfitters, and marine technicians — sourced for your yard or fleet.",
+    "industryContext": "The marine industry faces unique recruiting challenges: coastal location requirements limit candidate pools, USCG and classification society standards add credentialing complexity, and seasonal demand fluctuations require flexible staffing. The US shipbuilding and repair industry employs approximately 150,000 workers, with chronic shortages in skilled marine mechanics.",
+    "certifications": [
+      "ABYC (American Boat & Yacht Council) Certification",
+      "Marine diesel engine certifications (Caterpillar Marine, Cummins Marine)",
+      "Mercury, Yamaha, or Honda outboard certifications",
+      "USCG documentation and inspection knowledge",
+      "Marine electrical systems certification",
+      "Welding certifications (AWS D3.6 underwater welding optional)",
+      "EPA Section 608 (marine refrigeration)"
+    ],
+    "typicalRoles": [
+      "Marine Diesel Mechanic",
+      "Outboard Motor Technician",
+      "Shipfitter",
+      "Marine Electrician",
+      "Marine HVAC/Refrigeration Technician",
+      "Boat Rigger",
+      "Marine Survey Technician",
+      "Yacht Maintenance Technician"
+    ],
+    "salaryRange": {
+      "low": 38000,
+      "median": 52000,
+      "high": 75000,
+      "source": "Bureau of Labor Statistics, 2024"
+    },
+    "industries": [
+      "Shipbuilding & Repair",
+      "Commercial Vessel Operations",
+      "Recreational Marine / Marinas",
+      "US Navy & Coast Guard (civilian)",
+      "Offshore Oil & Gas",
+      "Yacht Manufacturing"
+    ],
+    "faqs": [
+      {
+        "question": "What qualifications do marine mechanics need?",
+        "answer": "Marine mechanics need a combination of manufacturer-specific certifications (Caterpillar Marine, Cummins Marine, or outboard brands like Mercury and Yamaha), ABYC certifications for systems work, and practical experience with marine propulsion, electrical, and hydraulic systems. For commercial vessels, familiarity with USCG inspection standards and classification society requirements is important."
+      },
+      {
+        "question": "Can you staff for shipyard maintenance and repair?",
+        "answer": "Yes. MasterTech staffs shipyard drydock operations with marine mechanics, shipfitters, marine pipefitters, marine electricians, and marine welders. We understand the unique scheduling demands of drydock periods and can scale teams for vessel availability windows."
+      },
+      {
+        "question": "Do you recruit for both commercial and recreational marine?",
+        "answer": "Yes. We staff both commercial vessel operations (cargo ships, tugboats, ferries, offshore supply vessels) and recreational marine businesses (marinas, boat dealers, yacht management companies). The skill sets overlap significantly, though commercial marine typically requires more diesel and heavy systems experience."
+      },
+      {
+        "question": "How fast can you place marine mechanics?",
+        "answer": "Marine mechanic positions typically take 14-30 days to fill due to the specialized nature of the work and coastal location requirements. MasterTech's marine industry network can often present candidates within 10-14 days for common roles. Specialized positions like marine surveyors or USCG-qualified inspectors take longer."
+      },
+      {
+        "question": "What areas do you cover for marine staffing?",
+        "answer": "MasterTech provides marine mechanic staffing in all major US port and coastal markets, including the Gulf Coast (Houston, New Orleans, Mobile), East Coast (Norfolk, Jacksonville, Savannah), West Coast (San Diego, Seattle, Portland), and Great Lakes region (Cleveland, Milwaukee, Detroit)."
+      }
+    ],
+    "relatedServices": ["diesel-mechanics", "welding", "electrical"],
+    "relatedBlogSlugs": ["marine-mechanic-hiring-guide", "cost-of-unfilled-position"],
+    "relatedLocations": ["florida/jacksonville", "texas/houston", "virginia/norfolk"]
+  },
+  {
+    "slug": "heavy-equipment",
+    "name": "Heavy Equipment",
+    "shortName": "Heavy Equipment",
+    "icon": "truck",
+    "metaTitle": "Heavy Equipment Mechanic Staffing | MasterTech",
+    "metaDescription": "Hire heavy equipment mechanics and technicians through MasterTech. We staff Cat, Deere, Komatsu, and Volvo technicians for construction and mining. Contact us.",
+    "primaryKeyword": "heavy equipment mechanic recruiter",
+    "secondaryKeywords": [
+      "heavy equipment mechanic staffing",
+      "construction equipment mechanic recruiter",
+      "hire heavy equipment technicians",
+      "heavy machinery mechanic staffing",
+      "earthmoving equipment technician recruiter"
+    ],
+    "summary": "MasterTech recruits heavy equipment mechanics and field service technicians for construction companies, equipment dealers, rental companies, and mining operations. We staff technicians experienced with Caterpillar, John Deere, Komatsu, Volvo, and Liebherr equipment. Our heavy equipment recruiting focuses on hydraulics, powertrain, and electronic diagnostics specialists.",
+    "heroHeadline": "Heavy Equipment Mechanic Staffing & Recruiting",
+    "heroSubheadline": "Cat, Deere, Komatsu, and Volvo technicians — recruited for your fleet or dealership.",
+    "industryContext": "The construction equipment industry is experiencing a technician shortage driven by infrastructure spending, an aging workforce, and increasing equipment complexity. Modern heavy equipment integrates GPS, telematics, Tier 4 emissions systems, and electronic diagnostics — requiring technicians with both mechanical aptitude and technology skills. Average time-to-fill exceeds 50 days.",
+    "certifications": [
+      "OEM certifications (Caterpillar, John Deere, Komatsu, Volvo, Case, Hitachi)",
+      "Hydraulic certification",
+      "Tier 4 emissions systems certification",
+      "Welding certification (structural repair)",
+      "CDL Class A or B (for field service)",
+      "OSHA 10/30 Safety Certification",
+      "MSHA (Mine Safety and Health Administration) certification"
+    ],
+    "typicalRoles": [
+      "Heavy Equipment Mechanic",
+      "Field Service Technician",
+      "Shop Technician",
+      "Hydraulic Specialist",
+      "Equipment Inspector",
+      "Heavy Equipment Electrician",
+      "Undercarriage Specialist",
+      "Crane Technician"
+    ],
+    "salaryRange": {
+      "low": 43000,
+      "median": 57000,
+      "high": 82000,
+      "source": "Bureau of Labor Statistics, 2024"
+    },
+    "industries": [
+      "Construction",
+      "Mining & Quarry",
+      "Equipment Rental Companies",
+      "Equipment Dealerships",
+      "Agriculture",
+      "Forestry & Logging"
+    ],
+    "faqs": [
+      {
+        "question": "What certifications do heavy equipment mechanics need?",
+        "answer": "OEM-specific certifications are most valued — Caterpillar ThinkBIG, John Deere Tech, Komatsu CARE, etc. Hydraulic certification is essential for most roles. For mining operations, MSHA certification is required. CDL is important for field service technicians who drive service trucks to job sites. Welding skills are a significant plus for structural repair work."
+      },
+      {
+        "question": "Can you staff for both field service and shop positions?",
+        "answer": "Yes. MasterTech recruits for both field service technicians (mobile mechanics who travel to job sites and customer locations) and shop technicians (based at dealerships, rental yards, or company maintenance shops). Field service roles typically command higher pay due to travel requirements and the need for broader diagnostic skills."
+      },
+      {
+        "question": "Do you staff for mining equipment maintenance?",
+        "answer": "Yes. We recruit technicians experienced with mining-class equipment (haul trucks, loaders, draglines, crushers) who hold MSHA certifications. Mining maintenance positions often offer premium compensation due to remote locations and demanding schedules."
+      },
+      {
+        "question": "How long does it take to fill a heavy equipment mechanic position?",
+        "answer": "Heavy equipment mechanic positions average 45-60 days to fill nationally due to the specialized OEM knowledge required. MasterTech typically reduces this to 14-28 days by maintaining relationships with OEM training programs and experienced technicians across major equipment brands."
+      },
+      {
+        "question": "What's driving demand for heavy equipment technicians?",
+        "answer": "Three factors: federal infrastructure spending creating construction demand, equipment dealers struggling to staff service departments as experienced technicians retire, and increasing technology complexity (GPS, telematics, Tier 4 emissions, electronic diagnostics) reducing the number of qualified candidates who can work on modern machines."
+      }
+    ],
+    "relatedServices": ["diesel-mechanics", "welding", "millwright"],
+    "relatedBlogSlugs": ["how-to-hire-diesel-mechanic", "cost-of-unfilled-position"],
+    "relatedLocations": ["texas/houston", "arizona/phoenix", "colorado/denver"]
+  },
+  {
+    "slug": "millwright",
+    "name": "Millwright",
+    "shortName": "Millwright",
+    "icon": "settings",
+    "metaTitle": "Millwright Staffing Agency | MasterTech",
+    "metaDescription": "Hire skilled millwrights through MasterTech. We staff millwrights for manufacturing, power plants, and industrial installations. Precision alignment and rigging experts.",
+    "primaryKeyword": "millwright staffing agency",
+    "secondaryKeywords": [
+      "millwright recruiter",
+      "hire millwrights",
+      "industrial millwright staffing",
+      "millwright staffing services",
+      "precision alignment technician recruiter"
+    ],
+    "summary": "MasterTech provides millwright staffing for manufacturing plants, power generation facilities, refineries, and industrial construction projects. We recruit millwrights skilled in precision alignment, rigging, machinery installation, and predictive maintenance. Millwright staffing content is nearly nonexistent from competitors — our specialized recruitment fills a critical gap.",
+    "heroHeadline": "Millwright Staffing & Recruiting",
+    "heroSubheadline": "Precision millwrights for machinery installation, alignment, and industrial maintenance.",
+    "industryContext": "Millwrights are among the most versatile and highly skilled tradespeople in industrial maintenance. They combine mechanical, welding, rigging, and precision measurement skills. With manufacturing reshoring and infrastructure modernization, demand for millwrights is growing while apprenticeship completions decline. Experienced millwrights with precision alignment skills command top wages.",
+    "certifications": [
+      "Journeyman Millwright certification (union or state)",
+      "Precision shaft alignment (laser alignment) certification",
+      "Rigging and crane signaling certification",
+      "Welding certifications (supplemental)",
+      "Vibration analysis certification (Level I, II)",
+      "OSHA 10/30 Safety Certification",
+      "Confined space entry certification",
+      "Blueprint reading and GD&T"
+    ],
+    "typicalRoles": [
+      "Journeyman Millwright",
+      "Industrial Millwright",
+      "Precision Alignment Technician",
+      "Machinery Installation Specialist",
+      "Turbine Millwright",
+      "Maintenance Millwright",
+      "Millwright Foreman",
+      "Conveyor Systems Specialist"
+    ],
+    "salaryRange": {
+      "low": 48000,
+      "median": 62000,
+      "high": 90000,
+      "source": "Bureau of Labor Statistics, 2024"
+    },
+    "industries": [
+      "Manufacturing",
+      "Power Generation",
+      "Pulp & Paper",
+      "Petrochemical / Refining",
+      "Mining",
+      "Food & Beverage Processing"
+    ],
+    "faqs": [
+      {
+        "question": "What does a millwright do?",
+        "answer": "Millwrights install, maintain, repair, and dismantle industrial machinery and equipment. This includes precision shaft alignment, rigging and moving heavy equipment, reading blueprints and engineering drawings, performing predictive maintenance (vibration analysis, oil analysis), welding, and troubleshooting complex mechanical systems. They're often described as the most versatile trades professionals."
+      },
+      {
+        "question": "What certifications should a millwright have?",
+        "answer": "Key certifications include journeyman millwright status (through union apprenticeship or state programs), precision laser alignment certification, rigging certification, and OSHA safety certifications. Vibration analysis certification (ISO 18436) is highly valued for predictive maintenance roles. Many millwrights also carry welding certifications."
+      },
+      {
+        "question": "Can you staff millwrights for plant shutdowns and turnarounds?",
+        "answer": "Yes. MasterTech regularly staffs plant shutdowns, turnarounds, and outages requiring millwrights for equipment repair, overhaul, and reinstallation. We can scale teams from individual millwrights to crews of 20+ for major turnaround events."
+      },
+      {
+        "question": "What's the difference between a millwright and an industrial mechanic?",
+        "answer": "While there's significant overlap, millwrights specialize in precision installation and alignment of machinery, rigging, and major equipment moves. Industrial mechanics (or maintenance mechanics) focus more on ongoing repair and preventive maintenance of existing equipment. Millwrights typically have more precision measurement skills and rigging expertise."
+      },
+      {
+        "question": "How long does it take to fill a millwright position?",
+        "answer": "Millwright positions average 30-45 days to fill nationally. Experienced millwrights with precision alignment and turbine experience can take 45-60 days. MasterTech's industrial maintenance network typically reduces time-to-fill to 14-21 days for journeyman millwrights."
+      }
+    ],
+    "relatedServices": ["heavy-equipment", "welding", "electrical"],
+    "relatedBlogSlugs": ["staffing-agency-vs-direct-hire", "cost-of-unfilled-position"],
+    "relatedLocations": ["indiana/indianapolis", "ohio/columbus", "illinois/chicago"]
+  },
+  {
+    "slug": "rail-maintenance",
+    "name": "Rail Maintenance",
+    "shortName": "Rail Maintenance",
+    "icon": "train",
+    "metaTitle": "Rail Maintenance Technician Staffing | MasterTech",
+    "metaDescription": "Hire rail maintenance technicians through MasterTech. We staff locomotive mechanics, signal technicians, and track maintenance workers for railroads. Contact us.",
+    "primaryKeyword": "railroad maintenance technician staffing",
+    "secondaryKeywords": [
+      "rail maintenance staffing",
+      "locomotive mechanic recruiter",
+      "railroad technician staffing",
+      "rail signal technician recruiter",
+      "transit maintenance staffing"
+    ],
+    "summary": "MasterTech provides rail maintenance technician staffing for Class I railroads, short lines, transit agencies, and locomotive manufacturers. We recruit locomotive mechanics, signal technicians, track maintenance workers, and car repair specialists. Rail mechanic staffing content is nearly nonexistent online — our specialized focus on this niche gives railroad operators access to hard-to-find talent.",
+    "heroHeadline": "Rail Maintenance Technician Staffing",
+    "heroSubheadline": "Locomotive mechanics, signal techs, and track workers — recruited for railroads and transit systems.",
+    "industryContext": "The US railroad industry faces a significant workforce challenge: approximately 30% of the railroad workforce is eligible for retirement within the next 5 years. Class I railroads alone employ over 115,000 maintenance-of-way and mechanical workers. Transit agencies are expanding light rail and commuter rail systems, adding to demand. FRA safety regulations require certified technicians for most maintenance work.",
+    "certifications": [
+      "FRA (Federal Railroad Administration) safety certifications",
+      "Locomotive electrician certification",
+      "Signal and communications certification",
+      "Track inspector certification",
+      "Air brake certification (49 CFR Part 232)",
+      "Hazmat transportation certification",
+      "CDL (for hi-rail and maintenance-of-way vehicles)",
+      "Welding certifications (thermite and electric rail welding)"
+    ],
+    "typicalRoles": [
+      "Locomotive Mechanic / Technician",
+      "Signal Maintainer / Technician",
+      "Track Maintenance Worker (MOW)",
+      "Car Repair Technician",
+      "Locomotive Electrician",
+      "Rail Welder",
+      "Track Inspector",
+      "Transit Maintenance Technician"
+    ],
+    "salaryRange": {
+      "low": 45000,
+      "median": 60000,
+      "high": 85000,
+      "source": "Bureau of Labor Statistics, 2024"
+    },
+    "industries": [
+      "Class I Railroads (BNSF, UP, CSX, NS)",
+      "Short Line Railroads",
+      "Transit Agencies (light rail, commuter rail)",
+      "Locomotive Manufacturers (Wabtec, Siemens)",
+      "Rail Equipment Leasing",
+      "Railroad Construction Contractors"
+    ],
+    "faqs": [
+      {
+        "question": "What certifications do rail maintenance technicians need?",
+        "answer": "FRA safety certifications are mandatory for most railroad maintenance work. Specific roles require additional certifications: locomotive mechanics need air brake certification (49 CFR Part 232), signal technicians need FRA signal certification, and track workers need track inspection qualifications. Transit agencies often have their own certification requirements in addition to FRA standards."
+      },
+      {
+        "question": "Can you staff for both freight and transit rail maintenance?",
+        "answer": "Yes. MasterTech staffs maintenance technicians for Class I freight railroads, short line railroads, and transit agencies. While the core mechanical skills overlap, freight rail emphasizes locomotive and car repair, while transit focuses on EMU/DMU maintenance, station systems, and passenger safety systems."
+      },
+      {
+        "question": "Do you recruit for railroad signal and communications positions?",
+        "answer": "Yes. Signal maintainers and communications technicians are among the hardest-to-fill positions in the railroad industry. MasterTech recruits signal technicians experienced with wayside signal systems, PTC (Positive Train Control), grade crossing systems, and SCADA/communications infrastructure."
+      },
+      {
+        "question": "How fast can you place rail maintenance technicians?",
+        "answer": "Rail maintenance positions typically take 21-45 days to fill due to FRA certification requirements and security background checks. MasterTech's railroad industry network can often present candidates within 14-21 days for common mechanical roles. Signal technicians and specialized positions take 30+ days."
+      },
+      {
+        "question": "What's driving demand for rail maintenance workers?",
+        "answer": "Three factors: approximately 30% of the railroad workforce is retirement-eligible within 5 years, transit agencies are expanding light rail and commuter systems nationwide, and increasing regulatory requirements (PTC implementation, enhanced inspection standards) require additional certified technicians."
+      }
+    ],
+    "relatedServices": ["diesel-mechanics", "electrical", "welding"],
+    "relatedBlogSlugs": ["cost-of-unfilled-position", "staffing-agency-vs-direct-hire"],
+    "relatedLocations": ["illinois/chicago", "georgia/atlanta", "texas/dallas-fort-worth"]
+  }
+]
