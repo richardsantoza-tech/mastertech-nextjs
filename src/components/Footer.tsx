@@ -118,6 +118,9 @@ export default function Footer() {
             </h3>
             <ul className="mt-4 space-y-2">
               <li><Link href="/" className="text-sm hover:text-white">Home</Link></li>
+              <li><Link href="/employers" className="text-sm hover:text-white">For Employers</Link></li>
+              <li><Link href="/how-it-works" className="text-sm hover:text-white">How It Works</Link></li>
+              <li><Link href="/tools/vacancy-cost-estimator" className="text-sm hover:text-white">Vacancy Cost Estimator</Link></li>
               <li><Link href="/about" className="text-sm hover:text-white">About</Link></li>
               <li><Link href="/contact" className="text-sm hover:text-white">Contact</Link></li>
               <li><Link href="/blog" className="text-sm hover:text-white">Articles</Link></li>

@@ -3,6 +3,7 @@ import Link from "next/link";
 import { buildMetadata } from "@/lib/seo/metadata";
 import { serviceSchema, faqSchema, jsonLd } from "@/lib/seo/schema";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import { getAllPosts } from "@/lib/blog";
 import servicesData from "../../../../data/services.json";
 import type { ServiceData } from "@/lib/types";
 
@@ -65,6 +66,19 @@ export default async function ServicePage({
   if (!svc) notFound();
 
   const related = getRelatedServices(svc.relatedServices);
+
+  // Reverse lookup: blog posts that list this service in their relatedServices.
+  // Sort so posts that list this service FIRST in their relatedServices array
+  // rank higher — ensures each post gets featured on at least one service page.
+  const relatedPosts = getAllPosts()
+    .filter((p) => p.relatedServices.includes(svc.slug))
+    .sort((a, b) => {
+      const ai = a.relatedServices.indexOf(svc.slug);
+      const bi = b.relatedServices.indexOf(svc.slug);
+      if (ai !== bi) return ai - bi;
+      return new Date(b.date).getTime() - new Date(a.date).getTime();
+    })
+    .slice(0, 4);
   const gradient = tradeGradients[svc.slug] || "from-zinc-800 to-zinc-900";
   const salaryMax = svc.salaryRange.high;
 
@@ -398,6 +412,31 @@ export default async function ServicePage({
                           d="M9 5l7 7-7 7"
                         />
                       </svg>
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Related articles */}
+            {relatedPosts.length > 0 && (
+              <div className="rounded-lg border border-zinc-200 bg-white p-6">
+                <h2 className="text-sm font-semibold uppercase tracking-wider text-zinc-500">
+                  Related Articles
+                </h2>
+                <div className="mt-4 space-y-3">
+                  {relatedPosts.map((post) => (
+                    <Link
+                      key={post.slug}
+                      href={`/blog/${post.slug}`}
+                      className="block rounded-md border border-zinc-100 p-3 transition-colors hover:border-blue-200 hover:bg-blue-50"
+                    >
+                      <p className="text-xs font-medium uppercase tracking-wider text-blue-600">
+                        {post.category}
+                      </p>
+                      <p className="mt-1 text-sm font-medium leading-5 text-zinc-900">
+                        {post.title}
+                      </p>
                     </Link>
                   ))}
                 </div>

@@ -120,6 +120,12 @@ export default function Header() {
             )}
           </div>
 
+          <Link href="/employers" className="hover:text-white">
+            Employers
+          </Link>
+          <Link href="/how-it-works" className="hover:text-white">
+            How It Works
+          </Link>
           <Link href="/about" className="hover:text-white">
             About
           </Link>
@@ -181,6 +187,12 @@ export default function Header() {
               {svc.name}
             </Link>
           ))}
+          <Link href="/employers" className="block py-2 text-sm font-medium text-zinc-300" onClick={() => setMobileOpen(false)}>
+            Employers
+          </Link>
+          <Link href="/how-it-works" className="block py-2 text-sm font-medium text-zinc-300" onClick={() => setMobileOpen(false)}>
+            How It Works
+          </Link>
           <Link href="/about" className="block py-2 text-sm font-medium text-zinc-300" onClick={() => setMobileOpen(false)}>
             About
           </Link>
