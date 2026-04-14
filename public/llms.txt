@@ -1,0 +1,86 @@
+# MasterTech — Skilled Trades Recruitment Agency
+
+> MasterTech is a specialized skilled trades staffing agency that connects US employers with qualified tradespeople across 10 verticals. We offer direct hire, temp-to-hire, and contract staffing for diesel mechanics, aviation maintenance technicians, CNC machinists, welders, HVAC technicians, electricians, marine mechanics, heavy equipment mechanics, millwrights, and rail maintenance technicians. A division of Easy Outsource / BayStreet Staffing. Phone: +1 (888) 305-0102. Email: info@mastertech.work.
+
+## Main Pages
+
+- [Home](https://mastertech.work/): Skilled trades recruitment agency — 10 trade verticals, nationwide coverage, 50+ years collective experience
+- [Services](https://mastertech.work/services): Overview of all 10 skilled trades staffing verticals with salary ranges
+- [Locations](https://mastertech.work/locations): 29 US metro markets grouped by tier (primary, regional, emerging)
+- [Articles](https://mastertech.work/blog): Expert guides on hiring, retaining, and managing skilled trades workers
+
+## Service Pages
+
+- [Diesel Mechanics](https://mastertech.work/services/diesel-mechanics): Heavy duty diesel mechanic staffing — ASE T-series certified technicians for fleet maintenance, trucking, and construction equipment
+- [Aviation Maintenance](https://mastertech.work/services/aviation-maintenance): FAA-certificated A&P mechanics, avionics technicians, and aircraft inspectors for MROs, airlines, and defense contractors
+- [CNC Machining](https://mastertech.work/services/cnc-machining): CNC operators, setup technicians, and programmers for aerospace, automotive, medical device, and defense manufacturing
+- [Welding](https://mastertech.work/services/welding): Certified MIG, TIG, stick, flux-core, and pipe welders with AWS, ASME, and API qualifications
+- [HVAC](https://mastertech.work/services/hvac): EPA-certified HVAC technicians for commercial, industrial, data center, and healthcare facilities
+- [Electrical](https://mastertech.work/services/electrical): Licensed journeyman and master electricians, PLC programmers, and industrial controls technicians
+- [Marine Mechanics](https://mastertech.work/services/marine-mechanics): Marine diesel mechanics, outboard technicians, and shipfitters for shipyards, ports, and vessel operators
+- [Heavy Equipment](https://mastertech.work/services/heavy-equipment): Cat, John Deere, Komatsu, and Volvo equipment mechanics for construction and mining operations
+- [Millwright](https://mastertech.work/services/millwright): Precision alignment, rigging, and machinery installation specialists for manufacturing and power generation
+- [Rail Maintenance](https://mastertech.work/services/rail-maintenance): Locomotive mechanics, signal technicians, and track maintenance workers for Class I railroads and transit agencies
+
+## Tier 1 Location Pages (Primary Markets)
+
+- [Houston, TX](https://mastertech.work/locations/texas/houston): Energy capital, Port of Houston, petrochemical corridor — 7.3M metro population
+- [Dallas-Fort Worth, TX](https://mastertech.work/locations/texas/dallas-fort-worth): Top inland logistics hub, DFW airport, aviation maintenance corridor — 8.1M metro population
+- [Phoenix, AZ](https://mastertech.work/locations/arizona/phoenix): #1 construction workforce density, TSMC semiconductor boom — 5.1M metro population
+- [Atlanta, GA](https://mastertech.work/locations/georgia/atlanta): Southeast logistics capital, Hartsfield-Jackson, Norfolk Southern HQ — 6.3M metro population
+- [Chicago, IL](https://mastertech.work/locations/illinois/chicago): Rail capital of North America, all 7 Class I railroads converge — 9.5M metro population
+- [Indianapolis, IN](https://mastertech.work/locations/indiana/indianapolis): Crossroads of America, Rolls-Royce, Allison Transmission — 2.2M metro population
+- [Columbus, OH](https://mastertech.work/locations/ohio/columbus): Intel semiconductor fab, Honda plants, data center hub — 2.2M metro population
+- [Charlotte, NC](https://mastertech.work/locations/north-carolina/charlotte): Daimler Trucks, Duke Energy, NASCAR — 2.8M metro population
+- [San Antonio, TX](https://mastertech.work/locations/texas/san-antonio): Military City USA, Toyota plant, Eagle Ford Shale — 2.6M metro population
+
+## Tier 2 Location Pages (Regional Markets)
+
+- [Memphis, TN](https://mastertech.work/locations/tennessee/memphis): FedEx SuperHub, 400+ trucking companies, Mississippi River port
+- [Louisville, KY](https://mastertech.work/locations/kentucky/louisville): UPS Worldport, Ford Kentucky Truck Plant, automotive corridor
+- [Nashville, TN](https://mastertech.work/locations/tennessee/nashville): Nissan, GM Spring Hill, fastest-growing metro
+- [Denver, CO](https://mastertech.work/locations/colorado/denver): Aerospace corridor, construction boom, Front Range defense
+- [Tampa, FL](https://mastertech.work/locations/florida/tampa): Port Tampa Bay, MacDill AFB, marine services hub
+- [Las Vegas, NV](https://mastertech.work/locations/nevada/las-vegas): Perpetual construction cycle, Switch data centers, resort maintenance
+- [Midland-Odessa, TX](https://mastertech.work/locations/texas/midland-odessa): Permian Basin oil & gas, 6M barrels/day production
+- [Kansas City, MO](https://mastertech.work/locations/missouri/kansas-city): GM Fairfax, Ford Claycomo, Spirit AeroSystems
+- [Jacksonville, FL](https://mastertech.work/locations/florida/jacksonville): Naval Station Mayport, JAXPORT, BAE Systems shipyard
+
+## Tier 3 Location Pages (Emerging Markets)
+
+- [Detroit, MI](https://mastertech.work/locations/michigan/detroit): Big Three automakers, EV/battery manufacturing transition
+- [Savannah, GA](https://mastertech.work/locations/georgia/savannah): Port of Savannah, Gulfstream Aerospace, Hyundai EV plant
+- [Cleveland, OH](https://mastertech.work/locations/ohio/cleveland): Advanced manufacturing, NASA Glenn, Lincoln Electric HQ
+- [Birmingham, AL](https://mastertech.work/locations/alabama/birmingham): Mercedes-Benz, Honda, steel manufacturing heritage
+- [Pittsburgh, PA](https://mastertech.work/locations/pennsylvania/pittsburgh): US Steel, Marcellus Shale, Shell Chemicals ethane cracker
+- [Salt Lake City, UT](https://mastertech.work/locations/utah/salt-lake-city): Hill Air Force Base, Kennecott copper mine, 2034 Olympics buildout
+- [Minneapolis-St. Paul, MN](https://mastertech.work/locations/minnesota/minneapolis): 3M, Medtronic, medical device manufacturing corridor
+- [Tulsa, OK](https://mastertech.work/locations/oklahoma/tulsa): American Airlines MRO base, Spirit AeroSystems, oil & gas pipeline
+- [Raleigh-Durham, NC](https://mastertech.work/locations/north-carolina/raleigh-durham): Research Triangle data center boom, pharma manufacturing
+- [Los Angeles, CA](https://mastertech.work/locations/california/los-angeles): Port of LA/Long Beach, Inland Empire logistics, SpaceX
+- [Allentown, PA](https://mastertech.work/locations/pennsylvania/allentown): Lehigh Valley logistics hub, Amazon/FedEx warehousing
+
+## Featured Articles
+
+- [5 Must-Have Skills for a High-Paying Industrial Electrician Job](https://mastertech.work/blog/5-must-have-skills-high-paying-industrial-electrician-job): Advanced skills that unlock top-tier electrician salaries — PLC programming, VFDs, SCADA, robotics, cybersecurity
+- [The Future for Marine Diesel Technicians](https://mastertech.work/blog/future-marine-diesel-technicians-job-outlook-skills): Job outlook and new skills required as the marine industry transitions to LNG, methanol, and hybrid propulsion
+- [Heavy Equipment Mechanic Salary 2025](https://mastertech.work/blog/heavy-equipment-mechanic-salary-2025): Complete salary guide with national averages, state-by-state breakdowns, and certifications that boost pay
+- [Strategies for Retaining Skilled Trades Workers](https://mastertech.work/blog/strategies-for-retaining-skilled-trades-workers): Retention strategies, tailored incentives, and the financial case for investing in trades workforce retention
+
+## Key Facts About MasterTech
+
+- Specialized in 10 trade verticals (not a generalist staffing agency)
+- Nationwide US coverage with active networks in 30+ metro markets
+- Direct hire, temp-to-hire, and contract staffing models
+- Average time-to-fill reduction of up to 50% vs. traditional recruiting
+- Pre-vetted candidate network — certifications verified directly with issuing authorities
+- Emergency placements available within 5-7 business days
+- Industries served: transportation, manufacturing, energy, aviation, marine, construction, defense, data centers, rail, mining
+- Parent company: Easy Outsource / BayStreet Staffing
+
+## Contact
+
+- Phone: +1 (888) 305-0102
+- Email: info@mastertech.work
+- Job board: https://mastertech.zohorecruit.com/jobs/apply
+- LinkedIn: https://www.linkedin.com/company/mastertechwork
